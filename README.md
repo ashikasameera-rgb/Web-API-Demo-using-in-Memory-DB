@@ -9,7 +9,7 @@ Entity Framework Core In-Memory Database
 
 Swagger UI (OpenAPI) for API documentation and testing
 
-This project is intended as a technical demonstration for employers to highlight backend API skills and best practices.
+This project is intended as a technical demonstration for reqruiters to highlight backend API skills and best practices.
 
 🚀 Features
 
@@ -68,7 +68,7 @@ Prerequisites
 Git
 
 Steps
-git clone https://github.com/ashikasameera-rgb/WebApiInMemoryDemo.git
+git clone https://github.com/ashikasameera-rgb/Web-API-Demo-using-in-Memory-DB.git 
 cd WebApiInMemoryDemo
 dotnet restore
 dotnet run
